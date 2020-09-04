@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "webpack-test4",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing out webpack from template for the fourth time",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
